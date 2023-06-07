@@ -14,5 +14,5 @@ The Zoo animals datasets consists of 101 animals in a zoo and 16 variables with 
        'aquatic', 'predator', 'toothed', 'backbone', 'breathes', 'venomous',
        'fins', 'legs', 'tail', 'domestic', 'catsize'
 # ML MODEL USED
-K-NN CLASSIFIER
+K-NN CLASSIFIER ; 
 DECISION TREE CLASSIFIER
