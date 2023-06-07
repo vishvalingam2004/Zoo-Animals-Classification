@@ -1,4 +1,4 @@
-# ZOO-ANIMALS ML CLASSIFICATION MODEL.
+# ZOO-ANIMALS-ML-CLASSIFICATION MODEL.
 More than 101 zoo animals to apply classification ML models.
 # OVERVIEW
 In this repo a model based on ml Classification is done to analyse and predict the categories of taken animals list from a zoo data source.
